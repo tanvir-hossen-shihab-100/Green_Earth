@@ -1,0 +1,102 @@
+[
+    {
+        "id": 7,
+        "name": "Banyan Tree",
+        "scientific_name": "Ficus benghalensis",
+        "category": "Shade Trees",
+        "price": 1200,
+        "image_url": "https:\/\/i.ibb.co.com\/FkH6MRhR\/banyan-min.jpg",
+        "description": "A majestic shade tree with a vast canopy and iconic aerial roots. Revered in many cultures, it provides shelter for countless creatures and can spread over large areas, living for centuries.",
+        "created_at": "2024-01-07 00:00:00"
+    },
+    {
+        "id": 8,
+        "name": "Neem Tree",
+        "scientific_name": "Azadirachta indica",
+        "category": "Medicinal Trees",
+        "price": 600,
+        "image_url": "https:\/\/i.ibb.co.com\/CKXhH7nP\/neem-min.jpg",
+        "description": "A medicinal shade tree with powerful insect-repelling properties. Its leaves, bark, and seeds are used in traditional medicine for treating various ailments and in organic farming as a natural pesticide.",
+        "created_at": "2024-01-08 00:00:00"
+    },
+    {
+        "id": 9,
+        "name": "Rain Tree",
+        "scientific_name": "Samanea saman",
+        "category": "Shade Trees",
+        "price": 900,
+        "image_url": "https:\/\/i.ibb.co.com\/svQdDjS8\/rain-min.jpg",
+        "description": "A fast-growing tree with umbrella-like canopy and soft pink flowers. Perfect for roadside plantings and parks, it provides excellent shade and its leaves fold during rain and at night.",
+        "created_at": "2024-01-09 00:00:00"
+    },
+    {
+        "id": 10,
+        "name": "Amla Tree",
+        "scientific_name": "Phyllanthus emblica",
+        "category": "Medicinal Trees",
+        "price": 550,
+        "image_url": "https:\/\/i.ibb.co.com\/50K7Cgv\/amla-min.jpg",
+        "description": "A small to medium tree producing fruits rich in Vitamin C and antioxidants. Its fruits are used in Ayurvedic medicine and are a key ingredient in many traditional health supplements.",
+        "created_at": "2024-01-10 00:00:00"
+    },
+    {
+        "id": 11,
+        "name": "Teak",
+        "scientific_name": "Tectona grandis",
+        "category": "Timber Trees",
+        "price": 2000,
+        "image_url": "https:\/\/i.ibb.co.com\/391CtLWD\/teak-min.jpg",
+        "description": "A high-value hardwood tree known for its durability and resistance to termites. Widely used in premium furniture, boat building, and construction for its beautiful grain and long-lasting quality.",
+        "created_at": "2024-01-11 00:00:00"
+    },
+    {
+        "id": 12,
+        "name": "Pine",
+        "scientific_name": "Pinus",
+        "category": "Evergreen Trees",
+        "price": 1500,
+        "image_url": "https:\/\/i.ibb.co.com\/fdYphDNS\/pine-min.jpg",
+        "description": "An evergreen tree with needle-like leaves and fragrant resin. Commonly used for timber, paper production, and as ornamental trees. Pine forests are important ecosystems supporting diverse wildlife.",
+        "created_at": "2024-01-12 00:00:00"
+    },
+    {
+        "id": 13,
+        "name": "Bonsai",
+        "scientific_name": "Various species",
+        "category": "Ornamental Trees",
+        "price": 800,
+        "image_url": "https:\/\/i.ibb.co.com\/x8gt87ks\/bonsai-min.jpg",
+        "description": "An artfully grown miniature tree cultivated in pots. Represents patience, harmony, and a connection with nature. Bonsai cultivation is an ancient art form that requires careful pruning and shaping.",
+        "created_at": "2024-01-13 00:00:00"
+    },
+    {
+        "id": 14,
+        "name": "Golden Bamboo",
+        "scientific_name": "Bambusa vulgaris",
+        "category": "Bamboo",
+        "price": 700,
+        "image_url": "https:\/\/i.ibb.co.com\/xqFD0WyS\/golden-bamboo-min.jpg",
+        "description": "A fast-growing bamboo variety with golden-yellow stems. Perfect for privacy hedges and eco-friendly construction materials. Bamboo is one of the fastest-growing plants on Earth.",
+        "created_at": "2024-01-14 00:00:00"
+    },
+    {
+        "id": 15,
+        "name": "Money Plant",
+        "scientific_name": "Epipremnum aureum",
+        "category": "Climbers",
+        "price": 350,
+        "image_url": "https:\/\/i.ibb.co.com\/svtZJ7nw\/money-plant-min.jpg",
+        "description": "A popular indoor climber believed to bring prosperity. Thrives easily in soil or water with minimal care. Its heart-shaped leaves and trailing vines make it a favorite for home decoration.",
+        "created_at": "2024-01-15 00:00:00"
+    },
+    {
+        "id": 16,
+        "name": "Water Lily",
+        "scientific_name": "Nymphaea",
+        "category": "Aquatic Plants",
+        "price": 300,
+        "image_url": "https:\/\/i.ibb.co.com\/VWNQPDMR\/water-lily-min.jpg",
+        "description": "A floating aquatic plant with large leaves and stunning blooms. Adds beauty to ponds while supporting aquatic ecosystems. The flowers open during the day and close at night.",
+        "created_at": "2024-01-16 00:00:00"
+    }
+]
